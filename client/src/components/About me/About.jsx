@@ -1,5 +1,5 @@
 import React from 'react'
-import pic from '../../images/Me.jpeg'
+import pic from '../../images/ayush.jpg'
 import "./About.css"
 
 function About() {

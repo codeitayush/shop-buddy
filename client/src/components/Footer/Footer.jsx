@@ -91,7 +91,7 @@ const Footer = () => {
                 <div className="footer-bottom">
                     <p>
                         Copyright &copy; 2024, designed by
-                        <Link to="/aboutme" >Ayush Pathania</Link>
+                        <Link to="/aboutme" > Ayush Pathania</Link>
                     </p>
                 </div>
             </footer>
