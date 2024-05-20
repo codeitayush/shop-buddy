@@ -16,3 +16,4 @@ router.route("/updateproduct/:id").put(isAuthenticated, isAdmin, updateProduct)
 router.route("/deleteproduct/:id").delete(isAuthenticated, isAdmin, deleteProduct)
 
 module.exports = router;
+

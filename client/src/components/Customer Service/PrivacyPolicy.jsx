@@ -21,7 +21,7 @@ const PrivacyPolicy = () => {
                 </li>
                 <li>
                     <p>
-                        <strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Shop Buddy, Karnal, Haryana.
+                        <strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Shop Buddy, Kangra, Himachal Pradesh.
                     </p>
                 </li>
                 <li>
