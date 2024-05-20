@@ -171,7 +171,7 @@ const PrivacyPolicy = () => {
             <p>If you have any questions about this Privacy Policy, You can contact us:</p>
             <ul>
                 <li>By visiting this page on our website:
-                    <a href="http://myshopbuddy.herokuapp.com/contact" rel="external nofollow noopener noreferrer" target="_blank">http://myshopbuddy.herokuapp.com/contact</a>
+                    <a href="https://shop-buddy-rhdw.onrender.com" rel="external nofollow noopener noreferrer" target="_blank">https://shop-buddy-rhdw.onrender.com</a>
                 </li>
             </ul>
         </div>
